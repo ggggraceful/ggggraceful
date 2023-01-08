@@ -8,7 +8,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![ggggraceful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggggraceful&show_icons=true&theme=tokyonight) -->
 ![ggggraceful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggggraceful&show_icons=true&theme=radical)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggggraceful">
+<img align=right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggggraceful">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggggraceful&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
