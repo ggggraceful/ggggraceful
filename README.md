@@ -10,13 +10,6 @@
 ![ggggraceful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggggraceful&show_icons=true&theme=radical)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggggraceful">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggggraceful&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggggraceful&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=ggggraceful)
 
-<!-- https://hits.seeyoufarm.com/ -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggggraceful&count_bg=%237BACED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![유저이름's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ggggraceful)]
