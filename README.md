@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggggraceful">
+<img align=right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggggraceful">
 
 <br/>
 
