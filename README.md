@@ -4,6 +4,10 @@
 
 <br/>
 
+[👉 ggggraceful's dev-log](https://ggggraceful.github.io/)
+
+<br/>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ![ggggraceful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggggraceful&show_icons=true&theme=radical)
