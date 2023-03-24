@@ -6,6 +6,14 @@
 
 [👉 ggggraceful's dev-log](https://ggggraceful.github.io/)
 
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -14,11 +22,20 @@
 
 <br/>
 
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggggraceful"> -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/ggggraceful/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ggggraceful)](https://solved.ac/ggggraceful/) -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ggggraceful)](https://solved.ac/ggggraceful/)
 
 <br/>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggggraceful&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggggraceful&layout=compact&theme=dark)
+
+<br/>
+
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ggggraceful/)](https://github.com/ggggraceful/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggggraceful@gmail.com)](mailto:ggggraceful@gmail.com)
+
+
 
 
